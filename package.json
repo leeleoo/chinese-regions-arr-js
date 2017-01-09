@@ -1,0 +1,25 @@
+{
+  "name": "chinese-regions-arr-js",
+  "version": "1.0.0",
+  "description": "JS arr 中国省市区县",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/leeleoo/chinese-regions-arr-js.git"
+  },
+  "keywords": [
+    "js",
+    "arr",
+    "chinese",
+    "regions"
+  ],
+  "author": "leeleoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeleoo/chinese-regions-arr-js/issues"
+  },
+  "homepage": "https://github.com/leeleoo/chinese-regions-arr-js#readme"
+}
